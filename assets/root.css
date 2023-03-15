@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@500;600&family=Inter&family=Josefin+Sans&family=Laila&family=Montserrat:wght@600;800&family=Open+Sans:wght@300&family=Questrial&family=Roboto&display=swap');
+
+/*
+    font-family: 'Golos Text', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Laila', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Questrial', sans-serif;
+    font-family: 'Roboto', sans-serif;
+*/
+
+:root {
+    --primary-clr: #23CE6B;
+    --secondary-clr: #272D2D;
+    --tertiary-clr: #F6F8FF;
+    --quaternary-clr: #A846A0;
+    --quinary-clr: #50514F;
+}
